@@ -1,0 +1,15 @@
+[04-Jan-2025 14:47:20 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php on line 35
+[04-Jan-2025 14:47:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php on line 35
+[04-Jan-2025 14:55:54 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php on line 36
+[04-Jan-2025 14:55:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php on line 36
+[04-Jan-2025 14:56:46 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php on line 36
+[04-Jan-2025 14:56:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\PHP\PJResBack\livreurs\assign_delivery.php on line 36
